@@ -8,8 +8,8 @@
         <title>Resumo da página</title>
     </head>
     <body>
-        ##<h1>O que é esta página?>
-##<p>Esta página se dedica á exposição de dados adquiridos no Artigo sobre "Mulheres negras e indígenas na Tecnologia da Informação (T.I)".O propósito desta página é conscientizar o usuário acerca da participação feminina no mundo da informática e contribuir intelectualmente o leitor. A página terá a o menu com as abas de: Início,Quem somos, Introdução, Metodologia, Resultados e Conclusão.<\p>
+        <h1>O que é esta página?>
+<p>Esta página se dedica á exposição de dados adquiridos no Artigo sobre "Mulheres negras e indígenas na Tecnologia da Informação (T.I)".O propósito desta página é conscientizar o usuário acerca da participação feminina no mundo da informática e contribuir intelectualmente o leitor. A página terá a o menu com as abas de: Início,Quem somos, Introdução, Metodologia, Resultados e Conclusão.<\p>
     </body>
     </html>
 
